@@ -9,15 +9,15 @@ public class Calculator{
 
 
 		switch(type){
-		case 1:System.out.print(a+b);
+		case 1:System.out.println(a+b);
 		break;
-		case 2:System.out.print(a-b);
+		case 2:System.out.println(a-b);
 		break;
-		case 3:System.out.print(a*b);
+		case 3:System.out.println(a*b);
 		break;
-		case 4:System.out.print(a/b);
+		case 4:System.out.println(a/b);
 		break;
-		case 5:System.out.print(a%b);
+		case 5:System.out.println(a%b);
 		break;
 			}
 	}
